@@ -1,4 +1,4 @@
-# Node App Scaffold
+# Central Command
 
 ## Installation
 `npm install` <br>
